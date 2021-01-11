@@ -1,8 +1,5 @@
 const CSS = [
-
-'normalize.css/normalize.css', 'fontawesome/fontawesome-free/css/all.css'
-
+  "./normalize.css/normalize.css", "./@fortawesome/fontawesome-free/css/all.min.css"
 ];
 
-module.exports = [...CSS]
-
+module.exports = [...CSS];
